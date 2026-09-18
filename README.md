@@ -1,16 +1,19 @@
-## Hi there 👋
+# Renan Barbosa
 
-<!--
-**barbosarenan/barbosarenan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Marketing professional working at the intersection of strategy, SEO, content, Generative AI and web.
 
-Here are some ideas to get you started:
+### What I'm working with
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- SEO & content strategy
+- Generative AI and LLMs
+- AI agents and automation
+- Digital experiences
+- Astro, Vercel and web experimentation
+
+### Selected work
+
+I'm currently building and experimenting with projects around marketing, AI and digital products.
+
+### Connect
+
+[Portfolio](https://barbosarenan.com.br/) · [LinkedIn](https://www.linkedin.com/in/barbosa-renan/)
